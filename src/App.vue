@@ -22,9 +22,6 @@ export default {
       son: 0,
       daraja: 0,
       boluvchi: 0,
-      // son: 0,
-      // daraja: 0,
-      // boluvchi: 0
     }
   },
   methods: {
